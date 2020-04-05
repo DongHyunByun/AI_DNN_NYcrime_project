@@ -16,10 +16,11 @@
         2. 날짜와 범죄종류를 one hot coding한 뒤 DNN으로 분석
     5. 날짜 및 범죄 종류들을 embedding하면 날짜사이의 상관관계에 따라 다른 가중치를 부여할 수 있다.  
         1. 수요일은 화요일과는 가깝고 일요일과는 멀다. 이러한 특징들을 반영할 수 있다.  
-        2. 참고:(https://medium.com/@davidheffernan_99410/an-introduction-to-using-categorical-embeddings-ee686ed7e7f9)  
+        2. 참고  
+        (https://medium.com/@davidheffernan_99410/an-introduction-to-using-categorical-embeddings-ee686ed7e7f9)  
         3. 실제로 자치구 "queens"의 분석에서 embedding 후 DNN분석의 결과가 아래와 같이 개선된 형태로 나왔다.  
         **onehot-codding**  
-        ![onehot](https://user-images.githubusercontent.com/50386280/78471226-a499c100-776a-11ea-94cc-5be7afcd8115.png)
+        ![onehot](https://user-images.githubusercontent.com/50386280/78471226-a499c100-776a-11ea-94cc-5be7afcd8115.png)  
         
         **embedding**  
         ![embedding](https://user-images.githubusercontent.com/50386280/78471327-6d77df80-776b-11ea-8d77-681f18e1c4a6.png)
