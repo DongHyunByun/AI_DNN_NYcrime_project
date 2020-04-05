@@ -22,8 +22,8 @@
         **onehot-codding**  
         ![onehot](https://user-images.githubusercontent.com/50386280/78471226-a499c100-776a-11ea-94cc-5be7afcd8115.png)  
         
-        **embedding**  
-        ![embedding](https://user-images.githubusercontent.com/50386280/78471327-6d77df80-776b-11ea-8d77-681f18e1c4a6.png)
+          **embedding**  
+          ![embedding](https://user-images.githubusercontent.com/50386280/78471327-6d77df80-776b-11ea-8d77-681f18e1c4a6.png)
 
 4. 파일설명
     1. 1 범죄분류 확인  
