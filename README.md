@@ -14,7 +14,7 @@
     4. 아래의 두가지 방법을 통해 DNN분석
         1. 각 ATT를 그대로 one hot coding한 후 DNN분석  
         2. 날짜와 범죄종류를 one hot coding한 뒤 DNN으로 분석
-    5. 날짜 및 범죄 종류들을 embedding하면 날짜사이의 상관관계에 따라 다른 가중치를 부여할 수 있다.  
+    5. 날짜 및 범죄 종류들을 **embedding하면 날짜사이의 상관관계에 따라 다른 가중치를 부여할 수 있다.**  
         1. 수요일은 화요일과는 가깝고 일요일과는 멀다. 이러한 특징들을 반영할 수 있다.  
         2. 참고  
         (https://medium.com/@davidheffernan_99410/an-introduction-to-using-categorical-embeddings-ee686ed7e7f9)  
