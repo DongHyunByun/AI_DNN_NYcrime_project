@@ -1,8 +1,8 @@
 # AI_DNN_NYcrime_project
 
-1. 기간 : 2019.10~2019.11
+1. **기간 : 2019.10~2019.11**
 
-2. 기술스택 : python, pandas, numpy, tensorflow, keras
+2. **기술스택 : python, pandas, numpy, tensorflow, keras**
 
 3. **내용 :[뉴욕 범죄 데이터를 이용하여 **특정 시간**, **특정 범죄**가 **특정 자취구**의 "**어디서**" 발생할 것인지 예측]**
     1. 달,일,요일,시간,범죄장소,범죄종류가 나와있는 데이터를 이용
@@ -25,7 +25,7 @@
             **embedding**  
             ![embedding](https://user-images.githubusercontent.com/50386280/78471327-6d77df80-776b-11ea-8d77-681f18e1c4a6.png)
 
-4. 파일설명
+4. **파일설명**
     1. 1 범죄분류 확인  
         **[ input file : "NYPD_Complaint_Data_Current_YTD.csv", 설명 file : "범죄분류.xlsm" ]** 
         1. input 데이터에 범죄 분류를 확인하고, 비슷한 범죄들을 어떻게 묶을지 판단.  
