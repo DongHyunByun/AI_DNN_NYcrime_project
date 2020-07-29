@@ -1,6 +1,6 @@
 # AI_DNN_NYcrime_project
 
-1. **기간 : 2019.10~2019.11**
+1. **기간 : 2019.10~2019.11** 
 
 2. **기술스택 : python, pandas, numpy, tensorflow, keras**
 
